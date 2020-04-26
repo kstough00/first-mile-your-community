@@ -1,15 +1,17 @@
-# How to Get Help
+# Your Community
 
-# Help.learn.co
-A collection of help articles, with advice and answers to frequently asked questions from the Flatiron School Team: [help.learn.co](https://help.learn.co/en/)
+When you join Flatiron School, you join a community. You’ll have the opportunity to work with others and join a rich group of alumni and other developers within the programming community. Below are some details about different ways to access and get involved in our community.
 
-# “Ask A Question” Button (AAQ)
-Ask A Question is Flatiron School’s live support for online students. Ask A Question is staffed by Technical Coaches – former graduates who are familiar with the curriculum and ready to help you debug your code and other technical issues. You can also answer other student questions, and are encouraged to do so!
+# WeWork - Hot Desk membership
 
-Support from Technical Coaches includes text chat for simple questions and up to a 20 minute pair programming session for more complex cases. While not all issues may be resolved in 20 minutes, we’ve found that, on average, it’s enough time to get you moving again and keep wait times to a minimum for everyone.
+As a Flatiron student, you’ll receive access to a free 12-month [hot desk membership](https://www.wework.com/workspace/hot-desk) to one WeWork location of your choice. During your first week in the program, you’ll learn more about how to sign up for a hot desk and make the most of the community at WeWork.
 
-We use the Socratic Method on AAQ - asking questions to help guide you to the answer - instead of telling you what to do or giving you the answer. This approach helps students learn and retain information better, as well as making them more adept at debugging on their own. Trust this process.
+# Community Slack Channels
+Slack is the primary mode of communication for our Learn.co community, and your cohort Slack channel is your homeroom. Important information is posted regularly, so plan to check in daily.
 
-Technical Coaches provide support Monday through Friday, 9AM to 1AM ET, and Saturday and Sunday, 9AM to 12AM ET, except for holidays. 
+Since students are members of a virtual classroom, our expectation is that each student adds a profile photo of themself and uses their name as Slack username so their classmates will know how to greet them.
 
-You can find more information about Ask A Question and the Technical Coaches in the [Learn.co Help Center](https://help.learn.co/en/).
+You are invited  to join affinity groups and other community-oriented Slack channels. Slack also serves as a tool to raise technical questions, and meet fellow classmates who are at a similar point in the program.  Ask your Educational Coach or fellow students about specific Slack channels to join based on your geographic location, interests, and current progress in the curriculum.
+
+[How to set-up your Slack account](https://help.learn.co/en/articles/492943-how-to-join-slack)
+
