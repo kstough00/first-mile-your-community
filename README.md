@@ -16,4 +16,4 @@ You are invited  to join affinity groups and other community-oriented Slack chan
 [How to set-up your Slack account](https://help.learn.co/en/articles/492943-how-to-join-slack)
 
 # Flatiron Campuses
-Online students who live in a city with a Flatiron School campus are welcome (and encouraged!) to attend community events on campus, or to drop by and work independently in the space. Check-in with the Senior Education Manager or Campus Director and let them know you’re a Flatiron School online student! If you’re curious whether there’s a campus in your city or where it is, check out www.flatironschool.com, or e-mail info@flatironschool.com.
+Online students who live in a city with a Flatiron School campus are welcome (and encouraged!) to attend community events on campus, or to drop by and work independently in the space. Check-in with the campus staff and let them know you’re a Flatiron School online student! If you’re curious whether there’s a campus in your city or where it is, check out www.flatironschool.com, or e-mail info@flatironschool.com.
