@@ -2,7 +2,7 @@
 When you join Flatiron School, you join a community. You’ll have the opportunity to work with others and join a rich group of alumni and other developers within the programming community. Below are some details about different ways to access and get involved in our community.
 
 # Community Slack Channels
-Slack is the primary mode of communication for our Learn.co community, and your cohort Slack channel is your homeroom. Important information is posted regularly, so plan to check in daily.
+Slack is the primary mode of communication for our community, and your cohort Slack channel is your homeroom. Important information is posted regularly, so plan to check in daily.
 
 Since students are members of a virtual classroom, our expectation is that each student adds a profile photo of themself and uses their name as Slack username so their classmates will know how to greet them.
 
